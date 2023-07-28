@@ -1,0 +1,94 @@
+{
+    "term": "W23",
+    "tasks": [
+        {
+            "name": "Assignment 1",
+            "course": "MTE 262",
+            "done": false,
+            "startDate": "2023-01-10",
+            "due": {
+                "date": "2023-01-21",
+                "time": "23:59:00"
+            },
+            "submitTo": "Crowdmark",
+            "mark": 86,
+            "weight": 0.2
+        },
+        {
+            "name": "Assignment 2",
+            "course": "MTE 262",
+            "done": false,
+            "startDate": "2023-01-22",
+            "due": {
+                "date": "2023-01-31",
+                "time": "23:59:00"
+            },
+            "submitTo": "Crowdmark",
+            "mark": 83,
+            "weight": 0.2
+        },
+        {
+            "name": "Test",
+            "course": "MTE 200A",
+            "done": true,
+            "startDate": "2022-12-09",
+            "due": {
+                "date": "2022-12-09",
+                "time": "23:59:00"
+            },
+            "submitTo": "In Person",
+            "mark": 6,
+            "weight": 0.2
+        },
+        {
+            "name": "ABC",
+            "course": "MTE 201",
+            "done": false,
+            "startDate": "2022-12-09",
+            "due": {
+                "date": "2022-12-10",
+                "time": "16:00:00"
+            },
+            "submitTo": "LEARN",
+            "mark": 2,
+            "weight": 0.2
+        },
+        {
+            "name": "DEF",
+            "course": "MTE 202",
+            "done": false,
+            "startDate": "2022-12-09",
+            "due": {
+                "date": "2022-12-08",
+                "time": "16:00:00"
+            },
+            "submitTo": "Crowdmark",
+            "mark": 2,
+            "weight": 0.2
+        },{
+            "name": "Poo Analysis",
+            "course": "ANTH 202",
+            "done": false,
+            "startDate": "2022-12-09",
+            "due": {
+                "date": "2022-12-08",
+                "time": "16:00:00"
+            },
+            "submitTo": "Crowdmark",
+            "mark": 2,
+            "weight": 0.2
+        },{
+            "name": "Fart Analysis",
+            "course": "ANTH 202",
+            "done": true,
+            "startDate": "2022-12-09",
+            "due": {
+                "date": "2022-12-08",
+                "time": "16:00:00"
+            },
+            "submitTo": "Crowdmark",
+            "mark": "",
+            "weight": 0.2
+        }
+    ]
+}
